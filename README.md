@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I'm now a NLP algorithm engineer at Baidu inc.
 - 🌱 I graduated from Xi'an Jiaotong University with a master's degree.
-- 😄 I’m interested in NLP, including semantic parsing, dialogue system, and LLM.
+- 😄 I’m interested in NLP, including Dialogue System, Text-to-SQL, Information Extraction and LLM.
 - 📫 Wechat: 15234673866  Email: 492907319@qq.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiao0313&show_icons=true&theme=chartreuse-dark)
