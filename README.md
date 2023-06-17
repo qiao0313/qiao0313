@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=qiao0313.qiao0313">
 
 <!--
 **qiao0313/qiao0313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I'm now a NLP algorithm engineer at Baidu inc.
+- 🌱 I graduated from Xi'an Jiaotong University with a master's degree.
+- 😄 I’m interested in NLP, including semantic parsing, dialogue system, and LLM.
+- 📫 Wechat: 15234673866  Email: 492907319@qq.com
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiao0313&show_icons=true&theme=chartreuse-dark)
