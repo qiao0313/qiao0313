@@ -19,4 +19,8 @@ Here are some ideas to get you started:
 - 😄 I’m interested in NLP, including Dialogue System, Text-to-SQL, Information Extraction and LLM.
 - 📫 Wechat: 15234673866  Email: 492907319@qq.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiao0313&show_icons=true&theme=chartreuse-dark)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiao0313&show_icons=true&theme=chartreuse-dark) -->
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiao0313&&layout=compact"  alt="" height="150"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=qiao0313&count_private=true&show_icons=true&include_all_commits=true&bg_color=15,2F4F4F,DD5182,960B7E,9FE6E8&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"  alt="" height="150"/>
+
+![](./profile-3d-contrib/profile-south-season-animate.svg)
