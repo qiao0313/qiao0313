@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I'm now a NLP algorithm engineer at Baidu inc.
+- 🔭 I'm now a NLP algorithm engineer at Baidu Inc.
 - 🌱 I graduated from Xi'an Jiaotong University with a master's degree.
 - 😄 I’m interested in NLP, including Dialogue System, Text-to-SQL, Information Extraction and LLM.
 - 📫 Wechat: 15234673866  Email: 492907319@qq.com
